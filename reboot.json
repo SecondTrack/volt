@@ -1,0 +1,16 @@
+{
+  "id": "batterie",
+  "name": "Batterie",
+  "short": "Akku-Monitor mit Belastungstest",
+  "category": "Werkzeuge",
+  "status": "da",
+  "ios": [
+    "6.1.6"
+  ],
+  "package": "de.mesh.batt",
+  "version": "0.1.0",
+  "repo": "SecondTrack/batterie",
+  "requires": "",
+  "license": "GPL-3.0",
+  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+}

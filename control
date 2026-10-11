@@ -1,0 +1,9 @@
+Package: de.mesh.batt
+Name: Batterie
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Akku-Monitor (Stand, Spannung, Strom, Temperatur, Zyklen, Gesundheit)
+Maintainer: Second Track
+Author: Second Track
+Section: Utilities
+Depends: firmware (>= 6.0)

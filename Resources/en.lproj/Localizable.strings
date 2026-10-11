@@ -1,0 +1,84 @@
+// Batterie — English (identity table, English is the fallback)
+
+// Main screen
+"Battery" = "Battery";
+"Test ▸" = "Test ▸";
+
+// Battery state line
+"Fully charged" = "Fully charged";
+"Charging…" = "Charging…";
+"Plugged in" = "Plugged in";
+"On battery" = "On battery";
+
+// Time left value
+"full" = "full";
+"full in ~%d:%02d" = "full in ~%d:%02d";
+"charging…" = "charging…";
+
+// Detail row labels
+"Time left ≈" = "Time left ≈";
+"Charge level" = "Charge level";
+"Health" = "Health";
+"Capacity now" = "Capacity now";
+"Full capacity" = "Full capacity";
+"Design capacity" = "Design capacity";
+"Charge cycles" = "Charge cycles";
+"Voltage" = "Voltage";
+"Current" = "Current";
+"Temperature" = "Temperature";
+"Serial no." = "Serial no.";
+"0 mA (idle)" = "0 mA (idle)";
+
+// Condition verdict (estimate)
+"Condition: unknown" = "Condition: unknown";
+"No battery data available." = "No battery data available.";
+"No health data available." = "No health data available.";
+"Condition: Top" = "Condition: Top";
+"Condition: Very good" = "Condition: Very good";
+"Condition: Good" = "Condition: Good";
+"Condition: Okay" = "Condition: Okay";
+"Condition: Weak" = "Condition: Weak";
+"%.0f cycles" = "%.0f cycles";
+"Replacement advisable" = "Replacement advisable";
+"⚠ hot" = "⚠ hot";
+"⚠ cold" = "⚠ cold";
+"All in the green." = "All in the green.";
+
+// Measured verdict
+"Measured: %@" = "Measured: %@";
+" · Test incomplete" = " · Test incomplete";
+"Not measured yet" = "Not measured yet";
+"Tap “Test ▸” for the real value" = "Tap “Test ▸” for the real value";
+
+// Grade words (shared with stress test)
+"Top" = "Top";
+"Good" = "Good";
+"Okay" = "Okay";
+"Weak" = "Weak";
+"Poor" = "Poor";
+"Very good" = "Very good";
+
+// Grade notes
+"%.0f%% health · %.0f/%.0f mAh · %.0f min" = "%.0f%% health · %.0f/%.0f mAh · %.0f min";
+"%.0f min under full load" = "%.0f min under full load";
+" · incomplete" = " · incomplete";
+
+// Stress test screen
+"Stress test" = "Stress test";
+"‹ Back" = "‹ Back";
+"Last test (%@): grade %@\nRan %@%@  ·  min %.2f V  ·  max %.1f°C" = "Last test (%@): grade %@\nRan %@%@  ·  min %.2f V  ·  max %.1f°C";
+" until shutdown" = " until shutdown";
+"Start test" = "Start test";
+"Ready. After “Start test”, unplug the cable — then the test begins." = "Ready. After “Start test”, unplug the cable — then the test begins.";
+"Charge to 100%% and keep the cable plugged in.\n(currently %@%@)" = "Charge to 100%% and keep the cable plugged in.\n(currently %@%@)";
+", charging" = ", charging";
+", NOT plugged in" = ", NOT plugged in";
+"⚡ Unplug the cable NOW — the test starts automatically." = "⚡ Unplug the cable NOW — the test starts automatically.";
+"Cancel" = "Cancel";
+"%d%%  ·  %.2f V  ·  %.1f °C\ndrained: %.0f mAh   min V: %.2f   max T: %.1f°C" = "%d%%  ·  %.2f V  ·  %.1f °C\ndrained: %.0f mAh   min V: %.2f   max T: %.1f°C";
+"⚠ Voltage dropping — battery will die soon" = "⚠ Voltage dropping — battery will die soon";
+"Running under full load …" = "Running under full load …";
+"Stop" = "Stop";
+"Grade: %@" = "Grade: %@";
+"New test" = "New test";
+"Ran %@ (from %d%%)  ·  %@" = "Ran %@ (from %d%%)  ·  %@";
