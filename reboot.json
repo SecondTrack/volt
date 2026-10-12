@@ -1,6 +1,6 @@
 {
   "id": "batterie",
-  "name": "Battery",
+  "name": "Volt",
   "short": "Battery monitor with stress test",
   "category": "Tools",
   "status": "da",
@@ -8,7 +8,7 @@
     "6.1.6"
   ],
   "package": "de.mesh.batt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repo": "SecondTrack/batterie",
   "requires": "",
   "license": "GPL-3.0",
@@ -22,7 +22,7 @@
   ],
   "icon": "https://raw.githubusercontent.com/SecondTrack/batterie/main/Resources/Icon@2x.png",
   "private": false,
-  "name_de": "Batterie",
+  "name_de": "Volt",
   "short_de": "Akku-Monitor mit Belastungstest",
   "category_de": "Werkzeuge",
   "text_de": "Ladestand, Spannung, Strom, Temperatur, Ladezyklen und Gesundheit in Echtzeit. Der Belastungstest misst die Kapazität, die wirklich drin ist, und gibt eine ehrliche Note.",
