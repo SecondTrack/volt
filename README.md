@@ -22,7 +22,7 @@ It stops by itself above 44 °C, when the cable goes back in or the app leaves t
 
 ## Runs on
 
-iOS 6.1.6 · jailbroken iPod touch 4 (assumes 930 mAh if the device reports no design capacity)
+iOS 5.0 to 6.1 · jailbroken iPod touch 3G and 4G (iOS 5 not yet tested on a device) (assumes 930 mAh if the device reports no design capacity)
 
 ## Install
 
