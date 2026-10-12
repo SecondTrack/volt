@@ -1,8 +1,8 @@
 {
   "id": "batterie",
-  "name": "Batterie",
-  "short": "Akku-Monitor mit Belastungstest",
-  "category": "Werkzeuge",
+  "name": "Battery",
+  "short": "Battery monitor with stress test",
+  "category": "Tools",
   "status": "da",
   "ios": [
     "6.1.6"
@@ -12,5 +12,23 @@
   "repo": "SecondTrack/batterie",
   "requires": "",
   "license": "GPL-3.0",
-  "install": "GitHub-Release: neuestes Release, Anhang *.deb"
+  "install": "GitHub release: latest release, *.deb asset",
+  "bundle": "de.mesh.batt",
+  "text": "Charge level, voltage, current, temperature, charge cycles and health in real time. The stress test measures the capacity that is really left and gives an honest grade.",
+  "features": [
+    "Live charge, voltage, current and temperature",
+    "Charge cycles and health",
+    "Stress test with an honest grade"
+  ],
+  "icon": "https://raw.githubusercontent.com/SecondTrack/batterie/main/Resources/Icon@2x.png",
+  "private": false,
+  "name_de": "Batterie",
+  "short_de": "Akku-Monitor mit Belastungstest",
+  "category_de": "Werkzeuge",
+  "text_de": "Ladestand, Spannung, Strom, Temperatur, Ladezyklen und Gesundheit in Echtzeit. Der Belastungstest misst die Kapazität, die wirklich drin ist, und gibt eine ehrliche Note.",
+  "features_de": [
+    "Ladestand, Spannung, Strom und Temperatur live",
+    "Ladezyklen und Gesundheit",
+    "Belastungstest mit ehrlicher Note"
+  ]
 }
