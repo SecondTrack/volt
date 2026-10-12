@@ -1,5 +1,5 @@
 {
-  "id": "batterie",
+  "id": "volt",
   "name": "Volt",
   "short": "Battery monitor with stress test",
   "category": "Tools",
@@ -9,7 +9,7 @@
   ],
   "package": "de.mesh.batt",
   "version": "0.1.2",
-  "repo": "SecondTrack/batterie",
+  "repo": "SecondTrack/volt",
   "requires": "",
   "license": "GPL-3.0",
   "install": "GitHub release: latest release, *.deb asset",
